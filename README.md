@@ -1,0 +1,1 @@
+# bretech_django_guru
